@@ -8,7 +8,7 @@ This project is an implementation of signature verification using image processi
 * Forensic analysis: Signature verification can be used in forensic investigations to determine the authenticity of signatures on legal documents or contracts.
 * Banking and finance: Banks and financial institutions can employ this technology to detect fraudulent activities by verifying signatures on checks or transaction documents.
 * Identity verification: Signature verification can be integrated into verification systems to enhance security and prevent identity theft.
-By open-sourcing this project, we aim to encourage collaboration and further research in the field of signature verification. 
+By open-sourcing this project, I aim to encourage collaboration and further research in the field of signature verification. 
 
 Just so you know, while this project provides a foundation for signature verification, it may require customization or additional development to suit specific use cases or datasets.
 
